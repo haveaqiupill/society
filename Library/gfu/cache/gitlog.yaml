@@ -13,9 +13,2177 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-06-28T02:48:34.122+08:00
+  lastUpdatedAtString: 2019-06-28T02:59:32.574+08:00
   initializedAtString: 2019-06-27T21:56:03.598+08:00
   log:
+  - commitID: cd832a5c6a671da45c793a6a0698a7acfd552daa
+    mergeA: 
+    mergeB: 
+    authorName: Charmaine Koh
+    authorEmail: charmaine@Charmaines-MacBook-Pro.local
+    commitEmail: charmaine@Charmaines-MacBook-Pro.local
+    commitName: Charmaine Koh
+    summary: menu
+    description: 
+    timeString: 2019-06-28T02:59:30.000+08:00
+    commitTimeString: 2019-06-28T02:59:30.000+08:00
+    changes:
+    - path: .vs/orbital2019/xs/UserPrefs.xml
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/.vs/orbital2019/xs/UserPrefs.xml
+      projectPath: .vs/orbital2019/xs/UserPrefs.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs/orbital2019/xs/sqlite3/db.lock
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/.vs/orbital2019/xs/sqlite3/db.lock
+      projectPath: .vs/orbital2019/xs/sqlite3/db.lock
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs/orbital2019/xs/sqlite3/storage.ide
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/.vs/orbital2019/xs/sqlite3/storage.ide
+      projectPath: .vs/orbital2019/xs/sqlite3/storage.ide
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs/orbital2019/xs/sqlite3/storage.ide-shm
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/.vs/orbital2019/xs/sqlite3/storage.ide-shm
+      projectPath: .vs/orbital2019/xs/sqlite3/storage.ide-shm
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs/orbital2019/xs/sqlite3/storage.ide-wal
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/.vs/orbital2019/xs/sqlite3/storage.ide-wal
+      projectPath: .vs/orbital2019/xs/sqlite3/storage.ide-wal
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor.csproj
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assembly-CSharp-Editor.csproj
+      projectPath: Assembly-CSharp-Editor.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/.DS_Store
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/.DS_Store
+      projectPath: Assets/.DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Audio.unity
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Audio.unity
+      projectPath: Assets/Audio.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio.unity.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Audio.unity.meta
+      projectPath: Assets/Audio.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Basement.unity
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Basement.unity
+      projectPath: Assets/Basement.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Basement.unity.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Basement.unity.meta
+      projectPath: Assets/Basement.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Bsement.unity
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Bsement.unity
+      projectPath: Assets/Bsement.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Bsement.unity.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Bsement.unity.meta
+      projectPath: Assets/Bsement.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Main Menu.unity
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Main Menu.unity
+      projectPath: Assets/Main Menu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Main Menu.unity.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Main Menu.unity.meta
+      projectPath: Assets/Main Menu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/NUS_School_of_Computing.JPG
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/NUS_School_of_Computing.JPG
+      projectPath: Assets/NUS_School_of_Computing.JPG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/NUS_School_of_Computing.JPG.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/NUS_School_of_Computing.JPG.meta
+      projectPath: Assets/NUS_School_of_Computing.JPG.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Remember_Cello_Loop.mp3
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Remember_Cello_Loop.mp3
+      projectPath: Assets/Remember_Cello_Loop.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Remember_Cello_Loop.mp3.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Remember_Cello_Loop.mp3.meta
+      projectPath: Assets/Remember_Cello_Loop.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/Examples/Scene_Biome_Temple.unity
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Scenes/Examples/Scene_Biome_Temple.unity
+      projectPath: Assets/Scenes/Examples/Scene_Biome_Temple.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/IsometricPlayerMovementController.cs
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Scripts/IsometricPlayerMovementController.cs
+      projectPath: Assets/Scripts/IsometricPlayerMovementController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/StartGame.cs
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Scripts/StartGame.cs
+      projectPath: Assets/Scripts/StartGame.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/StartGame.cs.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Scripts/StartGame.cs.meta
+      projectPath: Assets/Scripts/StartGame.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont.meta
+      projectPath: Assets/Thaleah_PixelFont.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials.meta
+      projectPath: Assets/Thaleah_PixelFont/Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat
+      projectPath: Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat.meta
+      projectPath: Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials/ThaleahFat.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials/ThaleahFat.png
+      projectPath: Assets/Thaleah_PixelFont/Materials/ThaleahFat.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials/ThaleahFat.png.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials/ThaleahFat.png.meta
+      projectPath: Assets/Thaleah_PixelFont/Materials/ThaleahFat.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf
+      projectPath: Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf.meta
+      projectPath: Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png
+      projectPath: Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png.meta
+      projectPath: Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/ThaleahFat.fontsettings
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/ThaleahFat.fontsettings
+      projectPath: Assets/Thaleah_PixelFont/ThaleahFat.fontsettings
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/ThaleahFat.fontsettings.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/ThaleahFat.fontsettings.meta
+      projectPath: Assets/Thaleah_PixelFont/ThaleahFat.fontsettings.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Thaleah_Demo.unity
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Thaleah_Demo.unity
+      projectPath: Assets/Thaleah_PixelFont/Thaleah_Demo.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Thaleah_Demo.unity.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Thaleah_Demo.unity.meta
+      projectPath: Assets/Thaleah_PixelFont/Thaleah_Demo.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Thaleah_Readme.pdf
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Thaleah_Readme.pdf
+      projectPath: Assets/Thaleah_PixelFont/Thaleah_Readme.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Thaleah_PixelFont/Thaleah_Readme.pdf.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Thaleah_PixelFont/Thaleah_Readme.pdf.meta
+      projectPath: Assets/Thaleah_PixelFont/Thaleah_Readme.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Palettes/Palette_RuleTiles_Random.prefab
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Palettes/Palette_RuleTiles_Random.prefab
+      projectPath: Assets/Tilemaps/Isometric/Palettes/Palette_RuleTiles_Random.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.asset
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.asset.meta
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.png
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.png.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.png.meta
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Lockers.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.asset
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.asset.meta
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.png
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.png.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.png.meta
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Pillar.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/SoC/Stairs.png.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Stairs.png.meta
+      projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Stairs.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/Temple/New Scene.unity
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/Temple/New
+        Scene.unity
+      projectPath: Assets/Tilemaps/Isometric/Sprites/Temple/New Scene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/Isometric/Sprites/Temple/New Scene.unity.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Assets/Tilemaps/Isometric/Sprites/Temple/New
+        Scene.unity.meta
+      projectPath: Assets/Tilemaps/Isometric/Sprites/Temple/New Scene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/CurrentMaximizeLayout.dwlt
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/CurrentMaximizeLayout.dwlt
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/GridBrush/UnityEditor.GridBrush.asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/GridBrush/UnityEditor.GridBrush.asset
+      projectPath: Library/GridBrush/UnityEditor.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/32b5a54382be12792c6c4fd3ce6f106f.bin
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ShaderCache/3/32b5a54382be12792c6c4fd3ce6f106f.bin
+      projectPath: Library/ShaderCache/3/32b5a54382be12792c6c4fd3ce6f106f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/a9804849f083faba09187a90cbf3b34f.bin
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/ShaderCache/a/a9804849f083faba09187a90cbf3b34f.bin
+      projectPath: Library/ShaderCache/a/a9804849f083faba09187a90cbf3b34f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/044122-mainStage.json
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/StateCache/Hierarchy/044122-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/044122-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/4e414a-mainStage.json
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/StateCache/Hierarchy/4e414a-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/4e414a-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/f9eba9-mainStage.json
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/StateCache/Hierarchy/f9eba9-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/f9eba9-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/34b96b-mainStage.json
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/StateCache/SceneView/34b96b-mainStage.json
+      projectPath: Library/StateCache/SceneView/34b96b-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/37fa45-mainStage.json
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/StateCache/SceneView/37fa45-mainStage.json
+      projectPath: Library/StateCache/SceneView/37fa45-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/b21463-mainStage.json
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/StateCache/SceneView/b21463-mainStage.json
+      projectPath: Library/StateCache/SceneView/b21463-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/0a/0ac691dd25a276d468ee89cf1948229d
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/0a/0ac691dd25a276d468ee89cf1948229d
+      projectPath: Library/metadata/0a/0ac691dd25a276d468ee89cf1948229d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/0a/0ac691dd25a276d468ee89cf1948229d.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/0a/0ac691dd25a276d468ee89cf1948229d.info
+      projectPath: Library/metadata/0a/0ac691dd25a276d468ee89cf1948229d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/0e/0e3e760a2dbc76143ab19f5c17a0f7f8
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/0e/0e3e760a2dbc76143ab19f5c17a0f7f8
+      projectPath: Library/metadata/0e/0e3e760a2dbc76143ab19f5c17a0f7f8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/0e/0e3e760a2dbc76143ab19f5c17a0f7f8.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/0e/0e3e760a2dbc76143ab19f5c17a0f7f8.info
+      projectPath: Library/metadata/0e/0e3e760a2dbc76143ab19f5c17a0f7f8.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/18/180143f4a57f2124dae57257c95bc10a
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/18/180143f4a57f2124dae57257c95bc10a
+      projectPath: Library/metadata/18/180143f4a57f2124dae57257c95bc10a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/18/180143f4a57f2124dae57257c95bc10a.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/18/180143f4a57f2124dae57257c95bc10a.info
+      projectPath: Library/metadata/18/180143f4a57f2124dae57257c95bc10a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/2b/2b9a81d04b64ba846b895089734b9415
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/2b/2b9a81d04b64ba846b895089734b9415
+      projectPath: Library/metadata/2b/2b9a81d04b64ba846b895089734b9415
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/2b/2b9a81d04b64ba846b895089734b9415.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/2b/2b9a81d04b64ba846b895089734b9415.info
+      projectPath: Library/metadata/2b/2b9a81d04b64ba846b895089734b9415.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/2b/2bd88d84c25f0483490d598c7254ce3b
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/2b/2bd88d84c25f0483490d598c7254ce3b
+      projectPath: Library/metadata/2b/2bd88d84c25f0483490d598c7254ce3b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/2b/2bd88d84c25f0483490d598c7254ce3b.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/2b/2bd88d84c25f0483490d598c7254ce3b.info
+      projectPath: Library/metadata/2b/2bd88d84c25f0483490d598c7254ce3b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/2f/2f9ec283ee33545a39e8e8661c145cb0
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/2f/2f9ec283ee33545a39e8e8661c145cb0
+      projectPath: Library/metadata/2f/2f9ec283ee33545a39e8e8661c145cb0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/2f/2f9ec283ee33545a39e8e8661c145cb0.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/2f/2f9ec283ee33545a39e8e8661c145cb0.info
+      projectPath: Library/metadata/2f/2f9ec283ee33545a39e8e8661c145cb0.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/39/39c984edee91202458eafa25ee548ee7
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/39/39c984edee91202458eafa25ee548ee7
+      projectPath: Library/metadata/39/39c984edee91202458eafa25ee548ee7
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/metadata/39/39c984edee91202458eafa25ee548ee7.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/39/39c984edee91202458eafa25ee548ee7.info
+      projectPath: Library/metadata/39/39c984edee91202458eafa25ee548ee7.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/metadata/3f/3f7dbd97c75e7432f85637c33a89bd26
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/3f/3f7dbd97c75e7432f85637c33a89bd26
+      projectPath: Library/metadata/3f/3f7dbd97c75e7432f85637c33a89bd26
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/3f/3f7dbd97c75e7432f85637c33a89bd26.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/3f/3f7dbd97c75e7432f85637c33a89bd26.info
+      projectPath: Library/metadata/3f/3f7dbd97c75e7432f85637c33a89bd26.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/43/43d59b5c638b0664db55f3a4e4d130ef
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/43/43d59b5c638b0664db55f3a4e4d130ef
+      projectPath: Library/metadata/43/43d59b5c638b0664db55f3a4e4d130ef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/43/43d59b5c638b0664db55f3a4e4d130ef.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/43/43d59b5c638b0664db55f3a4e4d130ef.info
+      projectPath: Library/metadata/43/43d59b5c638b0664db55f3a4e4d130ef.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/52/524a732ab98394359ada4b46406e9114
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/52/524a732ab98394359ada4b46406e9114
+      projectPath: Library/metadata/52/524a732ab98394359ada4b46406e9114
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/52/524a732ab98394359ada4b46406e9114.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/52/524a732ab98394359ada4b46406e9114.info
+      projectPath: Library/metadata/52/524a732ab98394359ada4b46406e9114.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/52/52e846d61d3b34c259a425fb99db139e
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/52/52e846d61d3b34c259a425fb99db139e
+      projectPath: Library/metadata/52/52e846d61d3b34c259a425fb99db139e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/52/52e846d61d3b34c259a425fb99db139e.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/52/52e846d61d3b34c259a425fb99db139e.info
+      projectPath: Library/metadata/52/52e846d61d3b34c259a425fb99db139e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/58/585188cdc4600544eb408bee749e4b3a
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/58/585188cdc4600544eb408bee749e4b3a
+      projectPath: Library/metadata/58/585188cdc4600544eb408bee749e4b3a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/58/585188cdc4600544eb408bee749e4b3a.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/58/585188cdc4600544eb408bee749e4b3a.info
+      projectPath: Library/metadata/58/585188cdc4600544eb408bee749e4b3a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/5b/5bbfc5203b36a9040838fe59081d4888
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/5b/5bbfc5203b36a9040838fe59081d4888
+      projectPath: Library/metadata/5b/5bbfc5203b36a9040838fe59081d4888
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/5b/5bbfc5203b36a9040838fe59081d4888.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/5b/5bbfc5203b36a9040838fe59081d4888.info
+      projectPath: Library/metadata/5b/5bbfc5203b36a9040838fe59081d4888.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/65/652f7165b7c30ab46af6c4aad90a639b
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/65/652f7165b7c30ab46af6c4aad90a639b
+      projectPath: Library/metadata/65/652f7165b7c30ab46af6c4aad90a639b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/65/652f7165b7c30ab46af6c4aad90a639b.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/65/652f7165b7c30ab46af6c4aad90a639b.info
+      projectPath: Library/metadata/65/652f7165b7c30ab46af6c4aad90a639b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/91/91119d7c46f874aca9617c0b9e2d9a02
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/91/91119d7c46f874aca9617c0b9e2d9a02
+      projectPath: Library/metadata/91/91119d7c46f874aca9617c0b9e2d9a02
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/91/91119d7c46f874aca9617c0b9e2d9a02.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/91/91119d7c46f874aca9617c0b9e2d9a02.info
+      projectPath: Library/metadata/91/91119d7c46f874aca9617c0b9e2d9a02.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/9e/9ed99f44bdfe24519989c96d33092146
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/9e/9ed99f44bdfe24519989c96d33092146
+      projectPath: Library/metadata/9e/9ed99f44bdfe24519989c96d33092146
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/9e/9ed99f44bdfe24519989c96d33092146.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/9e/9ed99f44bdfe24519989c96d33092146.info
+      projectPath: Library/metadata/9e/9ed99f44bdfe24519989c96d33092146.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868
+      projectPath: Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868.info
+      projectPath: Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868.resource
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868.resource
+      projectPath: Library/metadata/b1/b178756a43134fd4ca7f4090cfac8868.resource
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/b3/b324a4685d480b346b084e8a5dbacbde
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/b3/b324a4685d480b346b084e8a5dbacbde
+      projectPath: Library/metadata/b3/b324a4685d480b346b084e8a5dbacbde
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/b3/b324a4685d480b346b084e8a5dbacbde.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/b3/b324a4685d480b346b084e8a5dbacbde.info
+      projectPath: Library/metadata/b3/b324a4685d480b346b084e8a5dbacbde.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/c2/c21439e96454a4a63ad23a5d90c182d0
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/c2/c21439e96454a4a63ad23a5d90c182d0
+      projectPath: Library/metadata/c2/c21439e96454a4a63ad23a5d90c182d0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/c2/c21439e96454a4a63ad23a5d90c182d0.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/c2/c21439e96454a4a63ad23a5d90c182d0.info
+      projectPath: Library/metadata/c2/c21439e96454a4a63ad23a5d90c182d0.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/c7/c73e90b8b795348f6949159c5a21fbcf
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/c7/c73e90b8b795348f6949159c5a21fbcf
+      projectPath: Library/metadata/c7/c73e90b8b795348f6949159c5a21fbcf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/c7/c73e90b8b795348f6949159c5a21fbcf.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/c7/c73e90b8b795348f6949159c5a21fbcf.info
+      projectPath: Library/metadata/c7/c73e90b8b795348f6949159c5a21fbcf.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/ce/ce0038be263d74d9b95eb7a5862c9f4e
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/ce/ce0038be263d74d9b95eb7a5862c9f4e
+      projectPath: Library/metadata/ce/ce0038be263d74d9b95eb7a5862c9f4e
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/metadata/d5/d57e68ba0bbed4c9ca67800dd37e8a84
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/d5/d57e68ba0bbed4c9ca67800dd37e8a84
+      projectPath: Library/metadata/d5/d57e68ba0bbed4c9ca67800dd37e8a84
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/metadata/d5/d57e68ba0bbed4c9ca67800dd37e8a84.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/d5/d57e68ba0bbed4c9ca67800dd37e8a84.info
+      projectPath: Library/metadata/d5/d57e68ba0bbed4c9ca67800dd37e8a84.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/metadata/fc/fc9d5b390880a42799fcff853eb359aa
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/fc/fc9d5b390880a42799fcff853eb359aa
+      projectPath: Library/metadata/fc/fc9d5b390880a42799fcff853eb359aa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/fc/fc9d5b390880a42799fcff853eb359aa.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/fc/fc9d5b390880a42799fcff853eb359aa.info
+      projectPath: Library/metadata/fc/fc9d5b390880a42799fcff853eb359aa.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/ff/ff0ed2e33f92a48f7936bd8cedcacd1e
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/ff/ff0ed2e33f92a48f7936bd8cedcacd1e
+      projectPath: Library/metadata/ff/ff0ed2e33f92a48f7936bd8cedcacd1e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/ff/ff0ed2e33f92a48f7936bd8cedcacd1e.info
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/metadata/ff/ff0ed2e33f92a48f7936bd8cedcacd1e.info
+      projectPath: Library/metadata/ff/ff0ed2e33f92a48f7936bd8cedcacd1e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/.icon.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/.icon.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/.icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/010a6e5305fa7004f89c5d317b7b47d4/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/04bf1fec540b6ee4987dc6524756477c/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/04bf1fec540b6ee4987dc6524756477c/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/04bf1fec540b6ee4987dc6524756477c/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/04bf1fec540b6ee4987dc6524756477c/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/04bf1fec540b6ee4987dc6524756477c/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/04bf1fec540b6ee4987dc6524756477c/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/07b685cbd69eaf049b40883b45f5bae2/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/07b685cbd69eaf049b40883b45f5bae2/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/07b685cbd69eaf049b40883b45f5bae2/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/07b685cbd69eaf049b40883b45f5bae2/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/07b685cbd69eaf049b40883b45f5bae2/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/07b685cbd69eaf049b40883b45f5bae2/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/085185b08a40a924985bc0e4176edea6/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/08c1fa6351174a9439d97cfc9d3307cc/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/097782735540f2d4db5606eae04ae6a7/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/0d230cc8be529a542a08cb878ab14b18/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/2a1f3cba20f3e11498474a705db12fde/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/30f674d88470a814e8648e216b61b9ef/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/30f674d88470a814e8648e216b61b9ef/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/30f674d88470a814e8648e216b61b9ef/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/30f674d88470a814e8648e216b61b9ef/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/30f674d88470a814e8648e216b61b9ef/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/30f674d88470a814e8648e216b61b9ef/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3a74f678ee8f3bd49aacf3de1ae4bcaa/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3bf6d9f920f7458448a390f80318ebe6/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/3d73bf03f88f371469fd7b43fc97d77e/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/414bddd31c5ea4f4c9f5d1452e5bbb41/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/42844a4fccbd54746b90cade4ff70f73/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/45977bbae16431c46a013576a1aea384/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/48c0d4d6bebaa934384b07aa1e2f8184/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4cbc879550e5e374a925e2e0a84d6f3c/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4fe6b423a92ebaf4bb564f9457fa74e4/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4fe6b423a92ebaf4bb564f9457fa74e4/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4fe6b423a92ebaf4bb564f9457fa74e4/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4fe6b423a92ebaf4bb564f9457fa74e4/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4fe6b423a92ebaf4bb564f9457fa74e4/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/4fe6b423a92ebaf4bb564f9457fa74e4/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/52071c88a467b46438b3cbf159bf988b/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/54628aafa20f64b40ae661038ee7abf0/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/56fae09712773584fb63896d473a98ee/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/58b5a2db95af76c4c9d4116a09ec3697/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/59e4faf24927edf4a82f463ad16f1c37/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5a71259a40885244a8fda03175513ba5/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5a71259a40885244a8fda03175513ba5/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5a71259a40885244a8fda03175513ba5/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5a71259a40885244a8fda03175513ba5/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5a71259a40885244a8fda03175513ba5/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5a71259a40885244a8fda03175513ba5/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5b56d9fa0e8bd6e409ed188db38a692c/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/5eda94a9dcf71e445ad17e3c065d1460/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/614d06243900d764f9c50b4da2c950a3/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6304ad603f150b649b764d29bbc2a87b/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6f3c65e147711ac449f6bbd5e7da81df/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6f3c65e147711ac449f6bbd5e7da81df/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6f3c65e147711ac449f6bbd5e7da81df/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6f3c65e147711ac449f6bbd5e7da81df/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6f3c65e147711ac449f6bbd5e7da81df/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/6f3c65e147711ac449f6bbd5e7da81df/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7927b9032dc11e841af3f9a1353d7ecd/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/7a47f546fc70ec8428172694e78e4288/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/84487d73ca4b791498332d8f6858417f/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8bf1b896f4e24d441975cb6f11f92e74/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8bf1b896f4e24d441975cb6f11f92e74/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8bf1b896f4e24d441975cb6f11f92e74/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8bf1b896f4e24d441975cb6f11f92e74/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8bf1b896f4e24d441975cb6f11f92e74/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8bf1b896f4e24d441975cb6f11f92e74/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8ca78f589dc53fd419c85dd20ea22ade/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8ca78f589dc53fd419c85dd20ea22ade/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8ca78f589dc53fd419c85dd20ea22ade/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8ca78f589dc53fd419c85dd20ea22ade/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8ca78f589dc53fd419c85dd20ea22ade/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/8ca78f589dc53fd419c85dd20ea22ade/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/90487ea2fbd75ca4aafda6529e728976/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/90487ea2fbd75ca4aafda6529e728976/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/90487ea2fbd75ca4aafda6529e728976/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/90487ea2fbd75ca4aafda6529e728976/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/90487ea2fbd75ca4aafda6529e728976/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/90487ea2fbd75ca4aafda6529e728976/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/9332cf0d233636a40a024382720294a3/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a37d705c8e9115e439ec799186182634/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/a6c56474666ce0647bdb766e9b4764b3/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/aaa2c939c0359ac4dbce3f49e8b90252/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ab6db91373811284caeba2e9472fa9c2/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b8467ea5fbaf9ba42908de6411bd443d/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/b9fca4100a7477741b3973b4ff2c405f/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ba0d0e7a039f526499c356a3c5cd6d3f/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c569c280f0eb52a49a7b2a6b8b0cbcf8/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c615706690ca87043ad593475e6db7ec/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/c8585b68a92b5d440992ddd7d1b1a3d6/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cd0a2c1b2c014ba4c80c1df786e150e9/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/cfa813ed406827e43b967abd54ab5b9a/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d41e4075f56d1e1438b3af3673ec6081/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d41e4075f56d1e1438b3af3673ec6081/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d41e4075f56d1e1438b3af3673ec6081/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d41e4075f56d1e1438b3af3673ec6081/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d41e4075f56d1e1438b3af3673ec6081/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d41e4075f56d1e1438b3af3673ec6081/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/d4b2b0d911a01a64ebfca9918e2b90b4/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/ec536a7718376554185e4a856d5ae230/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f054197ef28924b4986cbd91de2ab054/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/asset
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/asset
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/preview.png
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/preview.png
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f353d42d1db27ff42b78b28efd86b316/preview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f36f8459cb8c3fd44ba4390ba9652af8/asset.meta
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f36f8459cb8c3fd44ba4390ba9652af8/asset.meta
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f36f8459cb8c3fd44ba4390ba9652af8/asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f36f8459cb8c3fd44ba4390ba9652af8/pathname
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f36f8459cb8c3fd44ba4390ba9652af8/pathname
+      projectPath: Temp/Export Package/0965e6ca0995b4503922bb11a883a25c/f36f8459cb8c3fd44ba4390ba9652af8/pathname
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityLockfile
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-06a43437ef70e4ac18c832028b365ac7
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-06a43437ef70e4ac18c832028b365ac7
+      projectPath: Temp/UnityTempFile-06a43437ef70e4ac18c832028b365ac7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-0ea8c41197b234594a22222659b4c053
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-0ea8c41197b234594a22222659b4c053
+      projectPath: Temp/UnityTempFile-0ea8c41197b234594a22222659b4c053
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-1193bf9a0f7a146d19caf4f731331b6e
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-1193bf9a0f7a146d19caf4f731331b6e
+      projectPath: Temp/UnityTempFile-1193bf9a0f7a146d19caf4f731331b6e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-18ba1a91cd89b4afc89f2f9722e1acb3
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-18ba1a91cd89b4afc89f2f9722e1acb3
+      projectPath: Temp/UnityTempFile-18ba1a91cd89b4afc89f2f9722e1acb3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-1b758292e23d04ec386fa852663e7298
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-1b758292e23d04ec386fa852663e7298
+      projectPath: Temp/UnityTempFile-1b758292e23d04ec386fa852663e7298
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-1de6dd3a7b2d947cdb2462e0aeb71b66
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-1de6dd3a7b2d947cdb2462e0aeb71b66
+      projectPath: Temp/UnityTempFile-1de6dd3a7b2d947cdb2462e0aeb71b66
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-2218ab830eb50406c904297b41be9143
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-2218ab830eb50406c904297b41be9143
+      projectPath: Temp/UnityTempFile-2218ab830eb50406c904297b41be9143
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-3991799bf47e245dab8904aae62b1cb0
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-3991799bf47e245dab8904aae62b1cb0
+      projectPath: Temp/UnityTempFile-3991799bf47e245dab8904aae62b1cb0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-5b320edda88274cd4a0240c2422d30eb
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-5b320edda88274cd4a0240c2422d30eb
+      projectPath: Temp/UnityTempFile-5b320edda88274cd4a0240c2422d30eb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-5c191e397a1914633a896c6c9737dcd4
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-5c191e397a1914633a896c6c9737dcd4
+      projectPath: Temp/UnityTempFile-5c191e397a1914633a896c6c9737dcd4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-69d5091d98bf640378315a747fb46fe4
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-69d5091d98bf640378315a747fb46fe4
+      projectPath: Temp/UnityTempFile-69d5091d98bf640378315a747fb46fe4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-7085209115bfa4d8a93da4becc8e8265
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-7085209115bfa4d8a93da4becc8e8265
+      projectPath: Temp/UnityTempFile-7085209115bfa4d8a93da4becc8e8265
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-7937efd2991d54b01980015e8a5a6da8
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-7937efd2991d54b01980015e8a5a6da8
+      projectPath: Temp/UnityTempFile-7937efd2991d54b01980015e8a5a6da8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-7d04b928ae50c4345b89ae01bb8a0e36
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-7d04b928ae50c4345b89ae01bb8a0e36
+      projectPath: Temp/UnityTempFile-7d04b928ae50c4345b89ae01bb8a0e36
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-7de51fed71e4f4abd8ea200ded35cd26
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-7de51fed71e4f4abd8ea200ded35cd26
+      projectPath: Temp/UnityTempFile-7de51fed71e4f4abd8ea200ded35cd26
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-8975f8936a8fe4a45a2fff535a175de9
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-8975f8936a8fe4a45a2fff535a175de9
+      projectPath: Temp/UnityTempFile-8975f8936a8fe4a45a2fff535a175de9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-8d82dca42ba884f82a38d36c40ec986d
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-8d82dca42ba884f82a38d36c40ec986d
+      projectPath: Temp/UnityTempFile-8d82dca42ba884f82a38d36c40ec986d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-9ae85ad75df4d4a17851e4ededacdc94
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-9ae85ad75df4d4a17851e4ededacdc94
+      projectPath: Temp/UnityTempFile-9ae85ad75df4d4a17851e4ededacdc94
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-a4a4f26c2a6cf4aca907ac7abcd95775
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-a4a4f26c2a6cf4aca907ac7abcd95775
+      projectPath: Temp/UnityTempFile-a4a4f26c2a6cf4aca907ac7abcd95775
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-a4c7d07dd334f4c4899d2653fbfee927
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-a4c7d07dd334f4c4899d2653fbfee927
+      projectPath: Temp/UnityTempFile-a4c7d07dd334f4c4899d2653fbfee927
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-a7e0d98faa27b48c094e5dbf4a14ab33
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-a7e0d98faa27b48c094e5dbf4a14ab33
+      projectPath: Temp/UnityTempFile-a7e0d98faa27b48c094e5dbf4a14ab33
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-b1f41a978381d4818aace64d7f727a16
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-b1f41a978381d4818aace64d7f727a16
+      projectPath: Temp/UnityTempFile-b1f41a978381d4818aace64d7f727a16
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-b9e61692ea7e24504a7fd0d4cef8af82
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-b9e61692ea7e24504a7fd0d4cef8af82
+      projectPath: Temp/UnityTempFile-b9e61692ea7e24504a7fd0d4cef8af82
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-bf797b8c8081b437fb82ba856d945b1b
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-bf797b8c8081b437fb82ba856d945b1b
+      projectPath: Temp/UnityTempFile-bf797b8c8081b437fb82ba856d945b1b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-c62453768079b4f4293cee76465637b6
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-c62453768079b4f4293cee76465637b6
+      projectPath: Temp/UnityTempFile-c62453768079b4f4293cee76465637b6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-cb193e824402f432b9b72441482bdab4
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-cb193e824402f432b9b72441482bdab4
+      projectPath: Temp/UnityTempFile-cb193e824402f432b9b72441482bdab4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-cdf963a385f2a40f8bd75467b80cbcbf
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-cdf963a385f2a40f8bd75467b80cbcbf
+      projectPath: Temp/UnityTempFile-cdf963a385f2a40f8bd75467b80cbcbf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-d2940166e551f4c2486180556cc6f5ab
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-d2940166e551f4c2486180556cc6f5ab
+      projectPath: Temp/UnityTempFile-d2940166e551f4c2486180556cc6f5ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-debd322e464724aee847b2fbf946a802
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-debd322e464724aee847b2fbf946a802
+      projectPath: Temp/UnityTempFile-debd322e464724aee847b2fbf946a802
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-df402fc96bc16444e9849502271b3efe
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-df402fc96bc16444e9849502271b3efe
+      projectPath: Temp/UnityTempFile-df402fc96bc16444e9849502271b3efe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-e5d4276a06e204247bec94741d592e39
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-e5d4276a06e204247bec94741d592e39
+      projectPath: Temp/UnityTempFile-e5d4276a06e204247bec94741d592e39
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-fcba174cd35b54a168b957bf8241399d
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/UnityTempFile-fcba174cd35b54a168b957bf8241399d
+      projectPath: Temp/UnityTempFile-fcba174cd35b54a168b957bf8241399d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/1.backup
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/Temp/__Backupscenes/1.backup
+      projectPath: Temp/__Backupscenes/1.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: orbital2019.sln
+      fullPath: /Users/charmaine/orbital2019/society2/orbital2019/orbital2019.sln
+      projectPath: orbital2019.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 63fea86244c77b231c5a1a632a71c3f6d3b34541
     mergeA: 
     mergeB: 
