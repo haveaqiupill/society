@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-06-28T02:59:31.318+08:00
-  initializedAtString: 2019-06-27T21:56:02.842+08:00
+  lastUpdatedAtString: 2019-06-29T13:35:38.894+08:00
+  initializedAtString: 2019-06-29T13:35:38.885+08:00
   localBranches:
-  - name: four
-    tracking: 
-  - name: origin/branchthree
-    tracking: origin/origin/branchthree
-  remoteBranches: []
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/haveaqiupill/orbital2019.git
@@ -31,23 +31,26 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - four
-    - origin/branchthree
+    - master
     values:
-    - name: four
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
-    - name: origin/branchthree
+    - name: master
       remote:
         name: origin
         url: https://github.com/haveaqiupill/orbital2019.git
-      trackingBranch: origin/branchthree
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/haveaqiupill/orbital2019.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
