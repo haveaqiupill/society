@@ -1,4 +1,7 @@
 sceneSetups:
-- path: Assets/Scenes/Examples/Scene_Biome_Temple.unity
+- path: Assets/Basement.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Main Menu.unity
+  isLoaded: 0
+  isActive: 0
