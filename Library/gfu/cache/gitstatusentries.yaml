@@ -13,18 +13,622 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-29T13:36:10.126+08:00
-  initializedAtString: 2019-06-29T13:26:16.890+08:00
+  lastUpdatedAtString: 2019-06-30T09:31:15.269+08:00
+  initializedAtString: 2019-06-30T06:26:52.176+08:00
   entries:
+  - path: .DS_Store
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/.DS_Store
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Level 2.unity
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Level 2.unity
+    projectPath: Assets/Level 2.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Level 2.unity.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Level 2.unity.meta
+    projectPath: Assets/Level 2.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/.DS_Store
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/.DS_Store
+    projectPath: Assets/Tilemaps/.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Tilemaps/Isometric/.DS_Store
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/.DS_Store
+    projectPath: Assets/Tilemaps/Isometric/.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Tilemaps/Isometric/Palettes/Palette_RuleTiles_Random.prefab
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Palettes/Palette_RuleTiles_Random.prefab
+    projectPath: Assets/Tilemaps/Isometric/Palettes/Palette_RuleTiles_Random.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Tilemaps/Isometric/Sprites/.DS_Store
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/.DS_Store
+    projectPath: Assets/Tilemaps/Isometric/Sprites/.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/greenpillar.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/greytile.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/greytile.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/greytile.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/greytile.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/greytile.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/greytile.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Materials.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Materials.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Materials/greenpillar.mat
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Materials/greenpillar.mat
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Materials/greenpillar.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Materials/greenpillar.mat.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Materials/greenpillar.mat.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Materials/greenpillar.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/pinkpillar.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/redtile.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/redtile.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/redtile.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/redtile.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/redtile.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/redtile.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair Back.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Second
+      Floor Chair Back.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair Back.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair Back.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Second
+      Floor Chair Back.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair Back.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair Back.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Second
+      Floor Chair Back.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair Back.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Second
+      Floor Chair.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Second
+      Floor Chair.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Second
+      Floor Chair.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Second Floor Chair.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/table level 2.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/table
+      level 2.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/table level 2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/table level 2.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/table
+      level 2.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/table level 2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/table level 2.png
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/table
+      level 2.png
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/table level 2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/table level 2.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/table
+      level 2.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/table level 2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.png
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.png
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/ThickWhiteWall.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.png
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.png
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/Whitepillar.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.png
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.png
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/WhiteWall.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.asset
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.asset.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.asset.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.png.meta
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.png.meta
+    projectPath: Assets/Tilemaps/Isometric/Sprites/SoC/yellowpillar.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/assetDatabase3
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/GridBrush/UnityEditor.GridBrush.asset
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/GridBrush/UnityEditor.GridBrush.asset
+    projectPath: Library/GridBrush/UnityEditor.GridBrush.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/LastSceneManagerSetup.txt
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/LastSceneManagerSetup.txt
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/00/0055bb91cce914704a23516235638ed6
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/00/0055bb91cce914704a23516235638ed6
+    projectPath: Library/metadata/00/0055bb91cce914704a23516235638ed6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/00/0055bb91cce914704a23516235638ed6.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/00/0055bb91cce914704a23516235638ed6.info
+    projectPath: Library/metadata/00/0055bb91cce914704a23516235638ed6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/08/082515e77e9e349bc88ecba724c46e12
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/08/082515e77e9e349bc88ecba724c46e12
+    projectPath: Library/metadata/08/082515e77e9e349bc88ecba724c46e12
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/0c/0c059deba893e4b80bcad13ee7e46a50
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/0c/0c059deba893e4b80bcad13ee7e46a50
+    projectPath: Library/metadata/0c/0c059deba893e4b80bcad13ee7e46a50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/0c/0c059deba893e4b80bcad13ee7e46a50.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/0c/0c059deba893e4b80bcad13ee7e46a50.info
+    projectPath: Library/metadata/0c/0c059deba893e4b80bcad13ee7e46a50.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/0e/0ea5d59e2b2a645a3a719f5cebc7a372
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/0e/0ea5d59e2b2a645a3a719f5cebc7a372
+    projectPath: Library/metadata/0e/0ea5d59e2b2a645a3a719f5cebc7a372
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/0e/0ea5d59e2b2a645a3a719f5cebc7a372.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/0e/0ea5d59e2b2a645a3a719f5cebc7a372.info
+    projectPath: Library/metadata/0e/0ea5d59e2b2a645a3a719f5cebc7a372.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/17/17c40e1ed165044f7ac3da9ea0656a52
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/17/17c40e1ed165044f7ac3da9ea0656a52
+    projectPath: Library/metadata/17/17c40e1ed165044f7ac3da9ea0656a52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/17/17c40e1ed165044f7ac3da9ea0656a52.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/17/17c40e1ed165044f7ac3da9ea0656a52.info
+    projectPath: Library/metadata/17/17c40e1ed165044f7ac3da9ea0656a52.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/18/187d85d9a20124929a9c92a002d0768e
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/18/187d85d9a20124929a9c92a002d0768e
+    projectPath: Library/metadata/18/187d85d9a20124929a9c92a002d0768e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/18/187d85d9a20124929a9c92a002d0768e.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/18/187d85d9a20124929a9c92a002d0768e.info
+    projectPath: Library/metadata/18/187d85d9a20124929a9c92a002d0768e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/1a/1aaf1c82911dd4b288b4c8e7bc84945f
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/1a/1aaf1c82911dd4b288b4c8e7bc84945f
+    projectPath: Library/metadata/1a/1aaf1c82911dd4b288b4c8e7bc84945f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/1c/1cf9322e66bb04c7d83ba4904f80533a
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/1c/1cf9322e66bb04c7d83ba4904f80533a
+    projectPath: Library/metadata/1c/1cf9322e66bb04c7d83ba4904f80533a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/1c/1cf9322e66bb04c7d83ba4904f80533a.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/1c/1cf9322e66bb04c7d83ba4904f80533a.info
+    projectPath: Library/metadata/1c/1cf9322e66bb04c7d83ba4904f80533a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/35/35508540158094152ae201ae3a6bc250
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/35/35508540158094152ae201ae3a6bc250
+    projectPath: Library/metadata/35/35508540158094152ae201ae3a6bc250
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/35/35508540158094152ae201ae3a6bc250.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/35/35508540158094152ae201ae3a6bc250.info
+    projectPath: Library/metadata/35/35508540158094152ae201ae3a6bc250.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/39/39c984edee91202458eafa25ee548ee7
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/39/39c984edee91202458eafa25ee548ee7
+    projectPath: Library/metadata/39/39c984edee91202458eafa25ee548ee7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/39/39c984edee91202458eafa25ee548ee7.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/39/39c984edee91202458eafa25ee548ee7.info
+    projectPath: Library/metadata/39/39c984edee91202458eafa25ee548ee7.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/5e/5ec76f6f5b6134000a5cad669253da22
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/5e/5ec76f6f5b6134000a5cad669253da22
+    projectPath: Library/metadata/5e/5ec76f6f5b6134000a5cad669253da22
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/61/61cb1887c41aa40029875713b6c270fa
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/61/61cb1887c41aa40029875713b6c270fa
+    projectPath: Library/metadata/61/61cb1887c41aa40029875713b6c270fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/61/61cb1887c41aa40029875713b6c270fa.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/61/61cb1887c41aa40029875713b6c270fa.info
+    projectPath: Library/metadata/61/61cb1887c41aa40029875713b6c270fa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/64/645305f121cde4e05a254dc432867324
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/64/645305f121cde4e05a254dc432867324
+    projectPath: Library/metadata/64/645305f121cde4e05a254dc432867324
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/64/645305f121cde4e05a254dc432867324.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/64/645305f121cde4e05a254dc432867324.info
+    projectPath: Library/metadata/64/645305f121cde4e05a254dc432867324.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/72/72f0fdf3cbac14d2d8547f1529870491
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/72/72f0fdf3cbac14d2d8547f1529870491
+    projectPath: Library/metadata/72/72f0fdf3cbac14d2d8547f1529870491
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/72/72f0fdf3cbac14d2d8547f1529870491.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/72/72f0fdf3cbac14d2d8547f1529870491.info
+    projectPath: Library/metadata/72/72f0fdf3cbac14d2d8547f1529870491.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/99/9900d21557c864cdab35225524c07f8e
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/99/9900d21557c864cdab35225524c07f8e
+    projectPath: Library/metadata/99/9900d21557c864cdab35225524c07f8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/99/9900d21557c864cdab35225524c07f8e.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/99/9900d21557c864cdab35225524c07f8e.info
+    projectPath: Library/metadata/99/9900d21557c864cdab35225524c07f8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c7/c722f218cc0454bd1a598d1f1c483b78
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/c7/c722f218cc0454bd1a598d1f1c483b78
+    projectPath: Library/metadata/c7/c722f218cc0454bd1a598d1f1c483b78
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/cb/cb037502c41d8491c8d6db9d80770d48
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/cb/cb037502c41d8491c8d6db9d80770d48
+    projectPath: Library/metadata/cb/cb037502c41d8491c8d6db9d80770d48
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/ce/ce574ed1271484670a89a095d580baac
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/ce/ce574ed1271484670a89a095d580baac
+    projectPath: Library/metadata/ce/ce574ed1271484670a89a095d580baac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ce/ce574ed1271484670a89a095d580baac.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/ce/ce574ed1271484670a89a095d580baac.info
+    projectPath: Library/metadata/ce/ce574ed1271484670a89a095d580baac.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ce/cec397ccbf9ba4415a7f2d660082bfe1
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/ce/cec397ccbf9ba4415a7f2d660082bfe1
+    projectPath: Library/metadata/ce/cec397ccbf9ba4415a7f2d660082bfe1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ce/cec397ccbf9ba4415a7f2d660082bfe1.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/ce/cec397ccbf9ba4415a7f2d660082bfe1.info
+    projectPath: Library/metadata/ce/cec397ccbf9ba4415a7f2d660082bfe1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/cf/cfb81f107cafe4848969367d9ab5152d
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/cf/cfb81f107cafe4848969367d9ab5152d
+    projectPath: Library/metadata/cf/cfb81f107cafe4848969367d9ab5152d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/cf/cfb81f107cafe4848969367d9ab5152d.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/cf/cfb81f107cafe4848969367d9ab5152d.info
+    projectPath: Library/metadata/cf/cfb81f107cafe4848969367d9ab5152d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d6/d62337570563e418e8fde7addfffdca5
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/d6/d62337570563e418e8fde7addfffdca5
+    projectPath: Library/metadata/d6/d62337570563e418e8fde7addfffdca5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d6/d62337570563e418e8fde7addfffdca5.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/d6/d62337570563e418e8fde7addfffdca5.info
+    projectPath: Library/metadata/d6/d62337570563e418e8fde7addfffdca5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ea/ea9a84f9be1034383a746edaa5fafe55
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/ea/ea9a84f9be1034383a746edaa5fafe55
+    projectPath: Library/metadata/ea/ea9a84f9be1034383a746edaa5fafe55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ea/ea9a84f9be1034383a746edaa5fafe55.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/ea/ea9a84f9be1034383a746edaa5fafe55.info
+    projectPath: Library/metadata/ea/ea9a84f9be1034383a746edaa5fafe55.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f6/f63ecac85bfd644869e1ceece539eeb4
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/f6/f63ecac85bfd644869e1ceece539eeb4
+    projectPath: Library/metadata/f6/f63ecac85bfd644869e1ceece539eeb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f6/f63ecac85bfd644869e1ceece539eeb4.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/f6/f63ecac85bfd644869e1ceece539eeb4.info
+    projectPath: Library/metadata/f6/f63ecac85bfd644869e1ceece539eeb4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f9/f98c802d74f774cd0a1a92c8f25e460b
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/f9/f98c802d74f774cd0a1a92c8f25e460b
+    projectPath: Library/metadata/f9/f98c802d74f774cd0a1a92c8f25e460b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f9/f98c802d74f774cd0a1a92c8f25e460b.info
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/metadata/f9/f98c802d74f774cd0a1a92c8f25e460b.info
+    projectPath: Library/metadata/f9/f98c802d74f774cd0a1a92c8f25e460b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/SceneView/34b96b-mainStage.json
+    fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/StateCache/SceneView/34b96b-mainStage.json
+    projectPath: Library/StateCache/SceneView/34b96b-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

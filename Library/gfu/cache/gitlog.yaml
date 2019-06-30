@@ -13,9 +13,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-06-29T13:36:11.046+08:00
-  initializedAtString: 2019-06-29T13:35:16.674+08:00
+  lastUpdatedAtString: 2019-06-30T09:31:09.276+08:00
+  initializedAtString: 2019-06-30T09:30:47.080+08:00
   log:
+  - commitID: c6310e99ad142975cd0f0eaaacf17265ca21a73f
+    mergeA: 
+    mergeB: 
+    authorName: Jing Ying
+    authorEmail: e0323887@u.nus.edu
+    commitEmail: e0323887@u.nus.edu
+    commitName: Jing Ying
+    summary: Black Pillars
+    description: 
+    timeString: 2019-06-29T13:36:22.000+08:00
+    commitTimeString: 2019-06-29T13:36:22.000+08:00
+    changes:
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/orbital2019/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 3bac455d3217af9163f4fa11a68a3fcf5e1ebf6b
     mergeA: 
     mergeB: 
