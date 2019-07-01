@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\HideTilemapColliderOnPlay.cs" />
     <Compile Include="Assets\Scripts\IsometricCharacterRenderer.cs" />
     <Compile Include="Assets\Scripts\IsometricPlayerMovementController.cs" />
+    <Compile Include="Assets\Scripts\menuStart.cs" />
     <Compile Include="Assets\Scripts\StartGame.cs" />
     <None Include="Assets\_External\2d-techdemos\Rule Tiles\Scripts\ScriptTemplates\NewCustomRuleTile.cs.txt" />
     <Reference Include="Unity.2D.PixelPerfect.Editor">
