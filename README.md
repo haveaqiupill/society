@@ -1,4 +1,4 @@
-# _SoCiety_
+# _SoCiety_ - A Mobile Game for SoC students
 ### Orbital 2019
 
    ![alt text](https://github.com/haveaqiupill/orbital2019/blob/master/Milestone%203.png)
