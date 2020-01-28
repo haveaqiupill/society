@@ -13,9 +13,315 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-07-01T20:20:16.947+08:00
-  initializedAtString: 2019-07-01T20:20:16.947+08:00
+  lastUpdatedAtString: 2019-07-06T11:33:43.659+08:00
+  initializedAtString: 2019-07-06T11:33:02.638+08:00
   log:
+  - commitID: bfcc503a0f75dd02dc7788b2128cbac1a50f2a8e
+    mergeA: 
+    mergeB: 
+    authorName: Jing Ying
+    authorEmail: e0323887@u.nus.edu
+    commitEmail: e0323887@u.nus.edu
+    commitName: Jing Ying
+    summary: milestone2_drafttwo
+    description: 
+    timeString: 2019-07-01T20:39:21.000+08:00
+    commitTimeString: 2019-07-01T20:39:21.000+08:00
+    changes:
+    - path: Assets/Level 2.unity
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Assets/Level 2.unity
+      projectPath: Assets/Level 2.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Tilemaps/TilemapMaterials/TilemapColliderMaterial.mat
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Assets/Tilemaps/TilemapMaterials/TilemapColliderMaterial.mat
+      projectPath: Assets/Tilemaps/TilemapMaterials/TilemapColliderMaterial.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/GridBrush/UnityEditor.GridBrush.asset
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/GridBrush/UnityEditor.GridBrush.asset
+      projectPath: Library/GridBrush/UnityEditor.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/44dcd3238f44b38fc677e17159db816b.bin
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ShaderCache/4/44dcd3238f44b38fc677e17159db816b.bin
+      projectPath: Library/ShaderCache/4/44dcd3238f44b38fc677e17159db816b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f33408105ae2285136c85109a808a6f6.bin
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/ShaderCache/f/f33408105ae2285136c85109a808a6f6.bin
+      projectPath: Library/ShaderCache/f/f33408105ae2285136c85109a808a6f6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/044122-mainStage.json
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/StateCache/Hierarchy/044122-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/044122-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/34b96b-mainStage.json
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/StateCache/SceneView/34b96b-mainStage.json
+      projectPath: Library/StateCache/SceneView/34b96b-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/metadata/bb/bb4385f4a2462447bb4066e97f17aa7c.info
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/metadata/bb/bb4385f4a2462447bb4066e97f17aa7c.info
+      projectPath: Library/metadata/bb/bb4385f4a2462447bb4066e97f17aa7c.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-1824ce62b2ba94196ba1a7a5af9e2eca
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-1824ce62b2ba94196ba1a7a5af9e2eca
+      projectPath: Temp/UnityTempFile-1824ce62b2ba94196ba1a7a5af9e2eca
+      originalPath: Temp/UnityTempFile-daa8449509b174c44a34ced714872a45
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-19017d0f85c10471ea3f1a731f564f35
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-19017d0f85c10471ea3f1a731f564f35
+      projectPath: Temp/UnityTempFile-19017d0f85c10471ea3f1a731f564f35
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-57ce3b9691d214b78a5126cd4c7ea80f
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-57ce3b9691d214b78a5126cd4c7ea80f
+      projectPath: Temp/UnityTempFile-57ce3b9691d214b78a5126cd4c7ea80f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-8848c52c858b54dd88d9435897376015
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-8848c52c858b54dd88d9435897376015
+      projectPath: Temp/UnityTempFile-8848c52c858b54dd88d9435897376015
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-93ce4aa8d13ed4a6a9e20340d98f889a
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-93ce4aa8d13ed4a6a9e20340d98f889a
+      projectPath: Temp/UnityTempFile-93ce4aa8d13ed4a6a9e20340d98f889a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-a75766a1c021b4f9a8147440d578224c
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-a75766a1c021b4f9a8147440d578224c
+      projectPath: Temp/UnityTempFile-a75766a1c021b4f9a8147440d578224c
+      originalPath: Temp/UnityTempFile-ce23071f588b7463c8985119a1957d04
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-cc9fc177b61ae4c9686e77418df96516
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-cc9fc177b61ae4c9686e77418df96516
+      projectPath: Temp/UnityTempFile-cc9fc177b61ae4c9686e77418df96516
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-da8ea2aa16bbe412ba2449723c89ef4d
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-da8ea2aa16bbe412ba2449723c89ef4d
+      projectPath: Temp/UnityTempFile-da8ea2aa16bbe412ba2449723c89ef4d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-e194a541da893495296671178d687af3
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-e194a541da893495296671178d687af3
+      projectPath: Temp/UnityTempFile-e194a541da893495296671178d687af3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-f745d12736efb47dab9f0e16df96746b
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/UnityTempFile-f745d12736efb47dab9f0e16df96746b
+      projectPath: Temp/UnityTempFile-f745d12736efb47dab9f0e16df96746b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/qiujingying/Documents/Orbital2019/Second/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: b7dc8b7610ea2eb2d0298b25a9f016a33b5ad234
     mergeA: 
     mergeB: 
