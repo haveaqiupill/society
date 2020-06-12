@@ -1,10 +1,13 @@
 # _SoCiety - A Mobile Game for SoC students_
 ### Orbital 2019
+Orbital (CP2106: Independent Software Development Project) is the School of Computing’s 1st year summer self-directed, independent work course. This programme gives students the opportunity to pick up software development skills on their own, using sources on the web.
 
-   ![alt text](https://github.com/haveaqiupill/orbital2019/blob/master/Milestone%203.png)
+   <p align="center">
+       <img width="700" src="https://github.com/haveaqiupill/orbital2019/blob/master/Milestone%203.png">
+   </p>
 
 ## Level of Achievement
-Apollo 11
+Apollo 11 (Highest level)
 
 ## Aim
 We aspire to integrate freshmen into the SoC environment in a fun and interactive manner through a mobile game that simulates the SoC campus.
